@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJzcHN6M3l3Y3UxejRlNXkwZXAyMTZyZHFweXpkY2Y0YXZrdXEydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJzcHN6M3l3Y3UxejRlNXkwZXAyMTZyZHFweXpkY2Y0YXZrdXEydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
 
 # Hi, I'm Hariom! 👋 👾
 A passionate student of Computer Science Engineering, embarking on a journey through the vast landscape of coding and technology. I thrive on the challenges that technical problems present, always seeking innovative solutions to complex issues. As a computer science enthusiast, I find joy in unraveling the intricacies of algorithms and exploring the limitless possibilities within the digital realm.
